@@ -1,0 +1,14 @@
+{
+	"path": {
+		"css": {
+			"src": "src/css/*.css",
+			"dest": "dist/css",
+			"filename": "style.css"
+		},
+		"js": {
+			"src": "src/js/*.js",
+			"dest": "dist/js",
+			"filename": "script.js"
+		}
+	}
+}
